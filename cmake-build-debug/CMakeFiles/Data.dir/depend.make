@@ -9,5 +9,7 @@ CMakeFiles/Data.dir/3_12ClassFile.cpp.obj: ../3_12ClassFile.cpp
 
 CMakeFiles/Data.dir/3_15SolutionHomework.cpp.obj: ../3_15SolutionHomework.cpp
 
+CMakeFiles/Data.dir/3_16ClassFile.cpp.obj: ../3_16ClassFile.cpp
+
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
 

@@ -92,6 +92,9 @@
 		<Unit filename="F:/CLionProjects/Data/3_15SolutionHomework.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/3_16ClassFile.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>

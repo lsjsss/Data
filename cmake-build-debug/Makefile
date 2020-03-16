@@ -230,6 +230,33 @@ Data/fast:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_15SolutionHomework.cpp.s
 .PHONY : 3_15SolutionHomework.cpp.s
 
+3_16ClassFile.obj: 3_16ClassFile.cpp.obj
+
+.PHONY : 3_16ClassFile.obj
+
+# target to build an object file
+3_16ClassFile.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.obj
+.PHONY : 3_16ClassFile.cpp.obj
+
+3_16ClassFile.i: 3_16ClassFile.cpp.i
+
+.PHONY : 3_16ClassFile.i
+
+# target to preprocess a source file
+3_16ClassFile.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.i
+.PHONY : 3_16ClassFile.cpp.i
+
+3_16ClassFile.s: 3_16ClassFile.cpp.s
+
+.PHONY : 3_16ClassFile.s
+
+# target to generate assembly for a file
+3_16ClassFile.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.s
+.PHONY : 3_16ClassFile.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -278,6 +305,9 @@ help:
 	@echo ... 3_15SolutionHomework.obj
 	@echo ... 3_15SolutionHomework.i
 	@echo ... 3_15SolutionHomework.s
+	@echo ... 3_16ClassFile.obj
+	@echo ... 3_16ClassFile.i
+	@echo ... 3_16ClassFile.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
