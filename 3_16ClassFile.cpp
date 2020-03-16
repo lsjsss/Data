@@ -5,6 +5,8 @@
 
 #include <stdio.h>
 using namespace std;
+#define Class316 main
+
 #define MaxSize 50
 typedef int ElemType;//给某一个变量类型起别名
 typedef struct {
@@ -12,7 +14,7 @@ typedef struct {
     int legnth;
 }SqList;
 
-int main(){
+int Class316(){
     SqList sqlist;
     int i=1;
     char ch='a';

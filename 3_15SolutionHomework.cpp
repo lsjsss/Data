@@ -6,7 +6,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-#define equation main
+//#define equation main
 
 int solution( double a, double b, double c, double &x1, double &x2 );
 int equation(){

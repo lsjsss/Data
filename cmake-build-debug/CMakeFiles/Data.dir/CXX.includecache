@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+F:/CLionProjects/Data/3_15SolutionHomework.cpp
+iostream
+-
+math.h
+-
+
 F:/CLionProjects/Data/3_16ClassFile.cpp
 stdio.h
 -
