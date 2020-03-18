@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <malloc.h>
 using namespace std;
-//#define Class316 main
+#define Class316 main
 
 #define MaxSize 50
 typedef int ElemType;//给某一个变量类型起别名
