@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include "Sqlist.cpp"
-#define sqlist02 main
+#define sqlist02 main,
 
 int sqlist02() {
     SqList *L;

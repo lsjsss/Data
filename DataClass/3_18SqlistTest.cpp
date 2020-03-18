@@ -1,21 +1,21 @@
-//
-// Created by lsjss on 2020/3/18.
-#include <stdio.h>
-//#include "pch.h"
+//// Created by lsjss on 2020/3/18.
+//#include <stdio.h>
 //#include "Sqlist.cpp"
-//#define Sqlist3 main;
-
-//extern void InitList(SqList *&L);
-//extern void DestroyList(SqList *L);
-//extern bool ListEmpty(SqList *L);
-//extern int ListLength(SqList *L);
-//extern void DispList(SqList *L);
-//extern bool GetElem(SqList *L, int i, ElemType &e);
-//extern int  LocateElem(SqList *L, ElemType e);
-//extern bool ListInsert(SqList *&L, int i, ElemType e);
-//extern bool ListDelete(SqList *&L, int i, ElemType &e);
+//#define Sqlist3 main
+//
+////extern void InitList(SqList *&L);
+////extern void DestroyList(SqList *L);
+////extern bool ListEmpty(SqList *L);
+////extern int ListLength(SqList *L);
+////extern void DispList(SqList *L);
+////extern bool GetElem(SqList *L, int i, ElemType &e);
+////extern int  LocateElem(SqList *L, ElemType e);
+////extern bool ListInsert(SqList *&L, int i, ElemType e);
+////extern bool ListDelete(SqList *&L, int i, ElemType &e);
 //int Sqlist3() {
 //    SqList *L;
+//    int a[10];
+//    CreateList(L, a, 10);
 //    printf("顺序表的基本运算如下：\n");
 //    printf("(1)初始化顺序表L\n");
 //    InitList(L);
@@ -29,8 +29,8 @@
 //    DispList(L);
 //    printf("(4)顺序表L的长度=%d\n", ListLength(L));
 //    printf("(5)顺序表L为%s\n", (ListEmpty(L) ? "空" : "非空"));
-//    printf("(6)顺序表L的第3个元素=%c\n", GetElem(L, 3, 'e'));
-//    printf("(7)元素a的位置=%d\n",LocateElem(L,'a'));
+////    printf("(6)顺序表L的第3个元素=%c\n", GetElem(L, 3, 'e'));
+//    printf("(7)元素a的位置=%d\n", LocateElem(L, 'a'));
 //    ListInsert(L, 4, 'f');
 //    printf("(8)在第4个元素位置上插入f元素\n");
 //    ListInsert(L, 4, 'f');
@@ -42,4 +42,6 @@
 //    DispList(L);
 //    printf("(12)释放顺序表L\n");
 ////    DestroyList(L);
+//
+//    return 0;
 //}

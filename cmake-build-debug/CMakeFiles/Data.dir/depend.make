@@ -7,12 +7,11 @@ CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj: ../DataClass/3_12ClassFile.
 
 CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj: ../DataClass/3_15SolutionHomework.cpp
 
-CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj: ../DataClass/3_16ClassFile.cpp
-
 CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: ../DataClass/3_18ClassFile.cpp
 CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: ../DataClass/Sqlist.cpp
 
 CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj: ../DataClass/3_18SqlistTest.cpp
+CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj: ../DataClass/Sqlist.cpp
 
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
 

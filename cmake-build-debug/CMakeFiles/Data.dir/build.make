@@ -108,18 +108,18 @@ CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.s"
 	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\3_15SolutionHomework.cpp -o CMakeFiles\Data.dir\DataClass\3_15SolutionHomework.cpp.s
 
-CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj: CMakeFiles/Data.dir/flags.make
-CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj: ../DataClass/3_16ClassFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj"
-	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\DataClass\3_16ClassFile.cpp.obj -c F:\CLionProjects\Data\DataClass\3_16ClassFile.cpp
+CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: CMakeFiles/Data.dir/flags.make
+CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: ../DataClass/3_18ClassFile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj"
+	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.obj -c F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp
 
-CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.i"
-	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\DataClass\3_16ClassFile.cpp > CMakeFiles\Data.dir\DataClass\3_16ClassFile.cpp.i
+CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.i"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp > CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.i
 
-CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.s"
-	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\3_16ClassFile.cpp -o CMakeFiles\Data.dir\DataClass\3_16ClassFile.cpp.s
+CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.s"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp -o CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.s
 
 CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj: CMakeFiles/Data.dir/flags.make
 CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj: ../DataClass/3_18SqlistTest.cpp
@@ -134,28 +134,14 @@ CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.s"
 	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\3_18SqlistTest.cpp -o CMakeFiles\Data.dir\DataClass\3_18SqlistTest.cpp.s
 
-CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: CMakeFiles/Data.dir/flags.make
-CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj: ../DataClass/3_18ClassFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj"
-	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.obj -c F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp
-
-CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.i"
-	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp > CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.i
-
-CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.s"
-	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\3_18ClassFile.cpp -o CMakeFiles\Data.dir\DataClass\3_18ClassFile.cpp.s
-
 # Object files for target Data
 Data_OBJECTS = \
 "CMakeFiles/Data.dir/main.cpp.obj" \
 "CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj" \
 "CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj" \
 "CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj" \
-"CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj" \
-"CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj" \
-"CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj"
+"CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj" \
+"CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj"
 
 # External object files for target Data
 Data_EXTERNAL_OBJECTS =
@@ -164,14 +150,13 @@ Data.exe: CMakeFiles/Data.dir/main.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj
-Data.exe: CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj
-Data.exe: CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj
+Data.exe: CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj
 Data.exe: CMakeFiles/Data.dir/build.make
 Data.exe: CMakeFiles/Data.dir/linklibs.rsp
 Data.exe: CMakeFiles/Data.dir/objects1.rsp
 Data.exe: CMakeFiles/Data.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Data.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Data.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Data.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

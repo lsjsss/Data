@@ -203,33 +203,6 @@ DataClass/3_15SolutionHomework.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.s
 .PHONY : DataClass/3_15SolutionHomework.cpp.s
 
-DataClass/3_16ClassFile.obj: DataClass/3_16ClassFile.cpp.obj
-
-.PHONY : DataClass/3_16ClassFile.obj
-
-# target to build an object file
-DataClass/3_16ClassFile.cpp.obj:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj
-.PHONY : DataClass/3_16ClassFile.cpp.obj
-
-DataClass/3_16ClassFile.i: DataClass/3_16ClassFile.cpp.i
-
-.PHONY : DataClass/3_16ClassFile.i
-
-# target to preprocess a source file
-DataClass/3_16ClassFile.cpp.i:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.i
-.PHONY : DataClass/3_16ClassFile.cpp.i
-
-DataClass/3_16ClassFile.s: DataClass/3_16ClassFile.cpp.s
-
-.PHONY : DataClass/3_16ClassFile.s
-
-# target to generate assembly for a file
-DataClass/3_16ClassFile.cpp.s:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.s
-.PHONY : DataClass/3_16ClassFile.cpp.s
-
 DataClass/3_18ClassFile.obj: DataClass/3_18ClassFile.cpp.obj
 
 .PHONY : DataClass/3_18ClassFile.obj
@@ -329,9 +302,6 @@ help:
 	@echo ... DataClass/3_15SolutionHomework.obj
 	@echo ... DataClass/3_15SolutionHomework.i
 	@echo ... DataClass/3_15SolutionHomework.s
-	@echo ... DataClass/3_16ClassFile.obj
-	@echo ... DataClass/3_16ClassFile.i
-	@echo ... DataClass/3_16ClassFile.s
 	@echo ... DataClass/3_18ClassFile.obj
 	@echo ... DataClass/3_18ClassFile.i
 	@echo ... DataClass/3_18ClassFile.s
