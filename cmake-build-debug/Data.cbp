@@ -80,16 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/CLionProjects/Data/3_10BookPreview.cpp">
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_10BookPreview.cpp">
 			<Option target="Data"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/Data/3_12ClassFile.cpp">
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_12ClassFile.cpp">
 			<Option target="Data"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/Data/3_15SolutionHomework.cpp">
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_15SolutionHomework.cpp">
 			<Option target="Data"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/Data/3_16ClassFile.cpp">
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_16ClassFile.cpp">
 			<Option target="Data"/>
 		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">

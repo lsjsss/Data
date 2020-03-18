@@ -6,7 +6,25 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/3_16ClassFile.cpp
+F:/CLionProjects/Data/DataClass/3_10BookPreview.cpp
+stdio.h
+-
+iostream
+-
+string.h
+-
+
+F:/CLionProjects/Data/DataClass/3_12ClassFile.cpp
+iostream
+-
+
+F:/CLionProjects/Data/DataClass/3_15SolutionHomework.cpp
+iostream
+-
+math.h
+-
+
+F:/CLionProjects/Data/DataClass/3_16ClassFile.cpp
 stdio.h
 -
 malloc.h

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Data.dir/3_10BookPreview.cpp.obj"
-  "CMakeFiles/Data.dir/3_12ClassFile.cpp.obj"
-  "CMakeFiles/Data.dir/3_15SolutionHomework.cpp.obj"
-  "CMakeFiles/Data.dir/3_16ClassFile.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj"
   "CMakeFiles/Data.dir/main.cpp.obj"
   "Data.exe"
   "Data.exe.manifest"

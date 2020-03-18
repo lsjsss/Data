@@ -122,113 +122,113 @@ Data/fast:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/build
 .PHONY : Data/fast
 
-3_10BookPreview.obj: 3_10BookPreview.cpp.obj
+DataClass/3_10BookPreview.obj: DataClass/3_10BookPreview.cpp.obj
 
-.PHONY : 3_10BookPreview.obj
-
-# target to build an object file
-3_10BookPreview.cpp.obj:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_10BookPreview.cpp.obj
-.PHONY : 3_10BookPreview.cpp.obj
-
-3_10BookPreview.i: 3_10BookPreview.cpp.i
-
-.PHONY : 3_10BookPreview.i
-
-# target to preprocess a source file
-3_10BookPreview.cpp.i:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_10BookPreview.cpp.i
-.PHONY : 3_10BookPreview.cpp.i
-
-3_10BookPreview.s: 3_10BookPreview.cpp.s
-
-.PHONY : 3_10BookPreview.s
-
-# target to generate assembly for a file
-3_10BookPreview.cpp.s:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_10BookPreview.cpp.s
-.PHONY : 3_10BookPreview.cpp.s
-
-3_12ClassFile.obj: 3_12ClassFile.cpp.obj
-
-.PHONY : 3_12ClassFile.obj
+.PHONY : DataClass/3_10BookPreview.obj
 
 # target to build an object file
-3_12ClassFile.cpp.obj:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_12ClassFile.cpp.obj
-.PHONY : 3_12ClassFile.cpp.obj
+DataClass/3_10BookPreview.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj
+.PHONY : DataClass/3_10BookPreview.cpp.obj
 
-3_12ClassFile.i: 3_12ClassFile.cpp.i
+DataClass/3_10BookPreview.i: DataClass/3_10BookPreview.cpp.i
 
-.PHONY : 3_12ClassFile.i
+.PHONY : DataClass/3_10BookPreview.i
 
 # target to preprocess a source file
-3_12ClassFile.cpp.i:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_12ClassFile.cpp.i
-.PHONY : 3_12ClassFile.cpp.i
+DataClass/3_10BookPreview.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.i
+.PHONY : DataClass/3_10BookPreview.cpp.i
 
-3_12ClassFile.s: 3_12ClassFile.cpp.s
+DataClass/3_10BookPreview.s: DataClass/3_10BookPreview.cpp.s
 
-.PHONY : 3_12ClassFile.s
+.PHONY : DataClass/3_10BookPreview.s
 
 # target to generate assembly for a file
-3_12ClassFile.cpp.s:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_12ClassFile.cpp.s
-.PHONY : 3_12ClassFile.cpp.s
+DataClass/3_10BookPreview.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.s
+.PHONY : DataClass/3_10BookPreview.cpp.s
 
-3_15SolutionHomework.obj: 3_15SolutionHomework.cpp.obj
+DataClass/3_12ClassFile.obj: DataClass/3_12ClassFile.cpp.obj
 
-.PHONY : 3_15SolutionHomework.obj
+.PHONY : DataClass/3_12ClassFile.obj
 
 # target to build an object file
-3_15SolutionHomework.cpp.obj:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_15SolutionHomework.cpp.obj
-.PHONY : 3_15SolutionHomework.cpp.obj
+DataClass/3_12ClassFile.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj
+.PHONY : DataClass/3_12ClassFile.cpp.obj
 
-3_15SolutionHomework.i: 3_15SolutionHomework.cpp.i
+DataClass/3_12ClassFile.i: DataClass/3_12ClassFile.cpp.i
 
-.PHONY : 3_15SolutionHomework.i
+.PHONY : DataClass/3_12ClassFile.i
 
 # target to preprocess a source file
-3_15SolutionHomework.cpp.i:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_15SolutionHomework.cpp.i
-.PHONY : 3_15SolutionHomework.cpp.i
+DataClass/3_12ClassFile.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.i
+.PHONY : DataClass/3_12ClassFile.cpp.i
 
-3_15SolutionHomework.s: 3_15SolutionHomework.cpp.s
+DataClass/3_12ClassFile.s: DataClass/3_12ClassFile.cpp.s
 
-.PHONY : 3_15SolutionHomework.s
+.PHONY : DataClass/3_12ClassFile.s
 
 # target to generate assembly for a file
-3_15SolutionHomework.cpp.s:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_15SolutionHomework.cpp.s
-.PHONY : 3_15SolutionHomework.cpp.s
+DataClass/3_12ClassFile.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.s
+.PHONY : DataClass/3_12ClassFile.cpp.s
 
-3_16ClassFile.obj: 3_16ClassFile.cpp.obj
+DataClass/3_15SolutionHomework.obj: DataClass/3_15SolutionHomework.cpp.obj
 
-.PHONY : 3_16ClassFile.obj
+.PHONY : DataClass/3_15SolutionHomework.obj
 
 # target to build an object file
-3_16ClassFile.cpp.obj:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.obj
-.PHONY : 3_16ClassFile.cpp.obj
+DataClass/3_15SolutionHomework.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj
+.PHONY : DataClass/3_15SolutionHomework.cpp.obj
 
-3_16ClassFile.i: 3_16ClassFile.cpp.i
+DataClass/3_15SolutionHomework.i: DataClass/3_15SolutionHomework.cpp.i
 
-.PHONY : 3_16ClassFile.i
+.PHONY : DataClass/3_15SolutionHomework.i
 
 # target to preprocess a source file
-3_16ClassFile.cpp.i:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.i
-.PHONY : 3_16ClassFile.cpp.i
+DataClass/3_15SolutionHomework.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.i
+.PHONY : DataClass/3_15SolutionHomework.cpp.i
 
-3_16ClassFile.s: 3_16ClassFile.cpp.s
+DataClass/3_15SolutionHomework.s: DataClass/3_15SolutionHomework.cpp.s
 
-.PHONY : 3_16ClassFile.s
+.PHONY : DataClass/3_15SolutionHomework.s
 
 # target to generate assembly for a file
-3_16ClassFile.cpp.s:
-	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/3_16ClassFile.cpp.s
-.PHONY : 3_16ClassFile.cpp.s
+DataClass/3_15SolutionHomework.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.s
+.PHONY : DataClass/3_15SolutionHomework.cpp.s
+
+DataClass/3_16ClassFile.obj: DataClass/3_16ClassFile.cpp.obj
+
+.PHONY : DataClass/3_16ClassFile.obj
+
+# target to build an object file
+DataClass/3_16ClassFile.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj
+.PHONY : DataClass/3_16ClassFile.cpp.obj
+
+DataClass/3_16ClassFile.i: DataClass/3_16ClassFile.cpp.i
+
+.PHONY : DataClass/3_16ClassFile.i
+
+# target to preprocess a source file
+DataClass/3_16ClassFile.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.i
+.PHONY : DataClass/3_16ClassFile.cpp.i
+
+DataClass/3_16ClassFile.s: DataClass/3_16ClassFile.cpp.s
+
+.PHONY : DataClass/3_16ClassFile.s
+
+# target to generate assembly for a file
+DataClass/3_16ClassFile.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.s
+.PHONY : DataClass/3_16ClassFile.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -266,18 +266,18 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Data
 	@echo ... edit_cache
-	@echo ... 3_10BookPreview.obj
-	@echo ... 3_10BookPreview.i
-	@echo ... 3_10BookPreview.s
-	@echo ... 3_12ClassFile.obj
-	@echo ... 3_12ClassFile.i
-	@echo ... 3_12ClassFile.s
-	@echo ... 3_15SolutionHomework.obj
-	@echo ... 3_15SolutionHomework.i
-	@echo ... 3_15SolutionHomework.s
-	@echo ... 3_16ClassFile.obj
-	@echo ... 3_16ClassFile.i
-	@echo ... 3_16ClassFile.s
+	@echo ... DataClass/3_10BookPreview.obj
+	@echo ... DataClass/3_10BookPreview.i
+	@echo ... DataClass/3_10BookPreview.s
+	@echo ... DataClass/3_12ClassFile.obj
+	@echo ... DataClass/3_12ClassFile.i
+	@echo ... DataClass/3_12ClassFile.s
+	@echo ... DataClass/3_15SolutionHomework.obj
+	@echo ... DataClass/3_15SolutionHomework.i
+	@echo ... DataClass/3_15SolutionHomework.s
+	@echo ... DataClass/3_16ClassFile.obj
+	@echo ... DataClass/3_16ClassFile.i
+	@echo ... DataClass/3_16ClassFile.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

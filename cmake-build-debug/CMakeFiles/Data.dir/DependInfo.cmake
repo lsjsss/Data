@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/CLionProjects/Data/3_10BookPreview.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/3_10BookPreview.cpp.obj"
-  "F:/CLionProjects/Data/3_12ClassFile.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/3_12ClassFile.cpp.obj"
-  "F:/CLionProjects/Data/3_15SolutionHomework.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/3_15SolutionHomework.cpp.obj"
-  "F:/CLionProjects/Data/3_16ClassFile.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/3_16ClassFile.cpp.obj"
+  "F:/CLionProjects/Data/DataClass/3_10BookPreview.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj"
+  "F:/CLionProjects/Data/DataClass/3_12ClassFile.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj"
+  "F:/CLionProjects/Data/DataClass/3_15SolutionHomework.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj"
+  "F:/CLionProjects/Data/DataClass/3_16ClassFile.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj"
   "F:/CLionProjects/Data/main.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
