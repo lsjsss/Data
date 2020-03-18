@@ -83,9 +83,6 @@
 		<Unit filename="F:/CLionProjects/Data/3_10BookPreview.cpp">
 			<Option target="Data"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/Data/3_11Complex.cpp">
-			<Option target="Data"/>
-		</Unit>
 		<Unit filename="F:/CLionProjects/Data/3_12ClassFile.cpp">
 			<Option target="Data"/>
 		</Unit>

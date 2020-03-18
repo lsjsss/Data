@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <malloc.h>
 using namespace std;
-#define Class316 main
+//#define Class316 main
 
 #define MaxSize 50
 typedef int ElemType;//给某一个变量类型起别名
@@ -70,9 +70,9 @@ bool GetElem(SqList *L, int i, int &e){
 //定位线性表中指定元素 e 的第一个位置信息，i值
 int Location(SqList *L, int e){
     int i=0;
-    while( i<L->length && L->data[i]!=e){
-
-    }
+//    while( i<L->length && L->data[i]!=e){
+//
+//    }
 
 }
 

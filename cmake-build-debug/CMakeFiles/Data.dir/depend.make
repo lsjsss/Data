@@ -3,8 +3,6 @@
 
 CMakeFiles/Data.dir/3_10BookPreview.cpp.obj: ../3_10BookPreview.cpp
 
-CMakeFiles/Data.dir/3_11Complex.cpp.obj: ../3_11Complex.cpp
-
 CMakeFiles/Data.dir/3_12ClassFile.cpp.obj: ../3_12ClassFile.cpp
 
 CMakeFiles/Data.dir/3_15SolutionHomework.cpp.obj: ../3_15SolutionHomework.cpp
