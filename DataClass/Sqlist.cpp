@@ -89,7 +89,7 @@ bool ListInsert(SqList *&L, int i, ElemType e) {
 }
 
 //9 删除顺序表中第 i 个位置的元素，用参数 e 返回。删除数据元素
-bool ListDelete(SqList *&L, int i, ElemType e) {
+bool ListDelete(SqList *&L, int i, ElemType &e) {
     int j;
     if (i<1 || i > L->length)
         return false;//参数错误时返回false
