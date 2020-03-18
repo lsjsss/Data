@@ -230,6 +230,60 @@ DataClass/3_16ClassFile.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.s
 .PHONY : DataClass/3_16ClassFile.cpp.s
 
+DataClass/3_18ClassFile.obj: DataClass/3_18ClassFile.cpp.obj
+
+.PHONY : DataClass/3_18ClassFile.obj
+
+# target to build an object file
+DataClass/3_18ClassFile.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj
+.PHONY : DataClass/3_18ClassFile.cpp.obj
+
+DataClass/3_18ClassFile.i: DataClass/3_18ClassFile.cpp.i
+
+.PHONY : DataClass/3_18ClassFile.i
+
+# target to preprocess a source file
+DataClass/3_18ClassFile.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.i
+.PHONY : DataClass/3_18ClassFile.cpp.i
+
+DataClass/3_18ClassFile.s: DataClass/3_18ClassFile.cpp.s
+
+.PHONY : DataClass/3_18ClassFile.s
+
+# target to generate assembly for a file
+DataClass/3_18ClassFile.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.s
+.PHONY : DataClass/3_18ClassFile.cpp.s
+
+DataClass/3_18SqlistTest.obj: DataClass/3_18SqlistTest.cpp.obj
+
+.PHONY : DataClass/3_18SqlistTest.obj
+
+# target to build an object file
+DataClass/3_18SqlistTest.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj
+.PHONY : DataClass/3_18SqlistTest.cpp.obj
+
+DataClass/3_18SqlistTest.i: DataClass/3_18SqlistTest.cpp.i
+
+.PHONY : DataClass/3_18SqlistTest.i
+
+# target to preprocess a source file
+DataClass/3_18SqlistTest.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.i
+.PHONY : DataClass/3_18SqlistTest.cpp.i
+
+DataClass/3_18SqlistTest.s: DataClass/3_18SqlistTest.cpp.s
+
+.PHONY : DataClass/3_18SqlistTest.s
+
+# target to generate assembly for a file
+DataClass/3_18SqlistTest.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.s
+.PHONY : DataClass/3_18SqlistTest.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -278,6 +332,12 @@ help:
 	@echo ... DataClass/3_16ClassFile.obj
 	@echo ... DataClass/3_16ClassFile.i
 	@echo ... DataClass/3_16ClassFile.s
+	@echo ... DataClass/3_18ClassFile.obj
+	@echo ... DataClass/3_18ClassFile.i
+	@echo ... DataClass/3_18ClassFile.s
+	@echo ... DataClass/3_18SqlistTest.obj
+	@echo ... DataClass/3_18SqlistTest.i
+	@echo ... DataClass/3_18SqlistTest.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

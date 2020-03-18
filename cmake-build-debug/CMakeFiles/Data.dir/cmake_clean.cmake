@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_16ClassFile.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj"
   "CMakeFiles/Data.dir/main.cpp.obj"
   "Data.exe"
   "Data.exe.manifest"
