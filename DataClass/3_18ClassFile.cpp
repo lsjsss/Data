@@ -60,5 +60,4 @@ int sqlist02() {
 
     printf("3-判断线性表是否为空表:  ");
     printf("%d\n", ListEmpty(L) );
-
 }
