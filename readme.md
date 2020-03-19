@@ -1,5 +1,8 @@
-## Data Projet(C++)
+### Data Projet(C++)
 
+by - lsj
+
+---
 * main - None.
 * 3_10BookPreview - Book P11~P12.
 * 3_12ClassFile - Quote example(Class).
