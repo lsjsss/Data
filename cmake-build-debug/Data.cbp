@@ -95,6 +95,12 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/3_18SqlistTest.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_19LinknodeHomework2.cpp">
+			<Option target="Data"/>
+		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_19SqlistHomework1.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>

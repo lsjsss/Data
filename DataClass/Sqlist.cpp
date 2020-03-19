@@ -20,7 +20,6 @@ void CreateList(SqList *&L, ElemType a[], int n) {
     L->length = n;
 }
 
-
 //1 初始化线性表
 void InitList(SqList * &L){
     //从总体的来说，这句是给指针分配空间。
@@ -129,3 +128,15 @@ void DelNode2(SqList *&L, ElemType x) {
         i++;
     }
 }
+
+
+////1 初始化线性表
+//void InitList(SqList * &L){
+//    //从总体的来说，这句是给指针分配空间。
+//    //赋值号左边L是一个SqList *指针，指向名为SqList的结构体；
+//    //赋值号右边，malloc(sizeof(SqList))是分配一块大小为sizeof(SqList)的内存，
+//    //并返回首地址并赋值给左边的L指针，
+//    //(SqList *)表示把这个地址强制转化为SqlList *的指针。
+//    L = (SqList *)malloc(sizeof(SqList));//分配存放线性表的空间
+//    L->length = 0;//置空线性表长度为0
+//}

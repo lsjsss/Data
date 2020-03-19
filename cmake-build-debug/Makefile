@@ -257,6 +257,60 @@ DataClass/3_18SqlistTest.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.s
 .PHONY : DataClass/3_18SqlistTest.cpp.s
 
+DataClass/3_19LinknodeHomework2.obj: DataClass/3_19LinknodeHomework2.cpp.obj
+
+.PHONY : DataClass/3_19LinknodeHomework2.obj
+
+# target to build an object file
+DataClass/3_19LinknodeHomework2.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.obj
+.PHONY : DataClass/3_19LinknodeHomework2.cpp.obj
+
+DataClass/3_19LinknodeHomework2.i: DataClass/3_19LinknodeHomework2.cpp.i
+
+.PHONY : DataClass/3_19LinknodeHomework2.i
+
+# target to preprocess a source file
+DataClass/3_19LinknodeHomework2.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.i
+.PHONY : DataClass/3_19LinknodeHomework2.cpp.i
+
+DataClass/3_19LinknodeHomework2.s: DataClass/3_19LinknodeHomework2.cpp.s
+
+.PHONY : DataClass/3_19LinknodeHomework2.s
+
+# target to generate assembly for a file
+DataClass/3_19LinknodeHomework2.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.s
+.PHONY : DataClass/3_19LinknodeHomework2.cpp.s
+
+DataClass/3_19SqlistHomework1.obj: DataClass/3_19SqlistHomework1.cpp.obj
+
+.PHONY : DataClass/3_19SqlistHomework1.obj
+
+# target to build an object file
+DataClass/3_19SqlistHomework1.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj
+.PHONY : DataClass/3_19SqlistHomework1.cpp.obj
+
+DataClass/3_19SqlistHomework1.i: DataClass/3_19SqlistHomework1.cpp.i
+
+.PHONY : DataClass/3_19SqlistHomework1.i
+
+# target to preprocess a source file
+DataClass/3_19SqlistHomework1.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.i
+.PHONY : DataClass/3_19SqlistHomework1.cpp.i
+
+DataClass/3_19SqlistHomework1.s: DataClass/3_19SqlistHomework1.cpp.s
+
+.PHONY : DataClass/3_19SqlistHomework1.s
+
+# target to generate assembly for a file
+DataClass/3_19SqlistHomework1.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.s
+.PHONY : DataClass/3_19SqlistHomework1.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -308,6 +362,12 @@ help:
 	@echo ... DataClass/3_18SqlistTest.obj
 	@echo ... DataClass/3_18SqlistTest.i
 	@echo ... DataClass/3_18SqlistTest.s
+	@echo ... DataClass/3_19LinknodeHomework2.obj
+	@echo ... DataClass/3_19LinknodeHomework2.i
+	@echo ... DataClass/3_19LinknodeHomework2.s
+	@echo ... DataClass/3_19SqlistHomework1.obj
+	@echo ... DataClass/3_19SqlistHomework1.i
+	@echo ... DataClass/3_19SqlistHomework1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
