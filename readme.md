@@ -7,3 +7,4 @@
 * 3_18ClassFile - 3.18Homework and Sqlist test project(12-24 for class).
 * 3_18SqlistTest - Old Sqlist add main.
 * Sqlist - Sequential table basic algorithm.
+* Linknode - Single-list master class implementation

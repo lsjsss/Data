@@ -73,12 +73,12 @@ preinstall:
 CMakeFiles/Data.dir/all:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/depend
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target Data"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Data"
 .PHONY : CMakeFiles/Data.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Data.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\CLionProjects\Data\cmake-build-debug\CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\CLionProjects\Data\cmake-build-debug\CMakeFiles 7
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Data.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start F:\CLionProjects\Data\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Data.dir/rule
