@@ -83,6 +83,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/3_10BookPreview.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_11ClassFile_malloc_01.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/DataClass/3_12ClassFile.cpp">
 			<Option target="Data"/>
 		</Unit>

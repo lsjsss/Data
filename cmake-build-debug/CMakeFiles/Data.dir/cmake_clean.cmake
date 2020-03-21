@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_11ClassFile_malloc_01.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_18ClassFile.cpp.obj"

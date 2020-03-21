@@ -3,6 +3,8 @@
 
 CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.obj: ../DataClass/3_10BookPreview.cpp
 
+CMakeFiles/Data.dir/DataClass/3_11ClassFile_malloc_01.cpp.obj: ../DataClass/3_11ClassFile_malloc_01.cpp
+
 CMakeFiles/Data.dir/DataClass/3_12ClassFile.cpp.obj: ../DataClass/3_12ClassFile.cpp
 
 CMakeFiles/Data.dir/DataClass/3_15SolutionHomework.cpp.obj: ../DataClass/3_15SolutionHomework.cpp

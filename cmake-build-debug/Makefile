@@ -149,6 +149,33 @@ DataClass/3_10BookPreview.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_10BookPreview.cpp.s
 .PHONY : DataClass/3_10BookPreview.cpp.s
 
+DataClass/3_11ClassFile_malloc_01.obj: DataClass/3_11ClassFile_malloc_01.cpp.obj
+
+.PHONY : DataClass/3_11ClassFile_malloc_01.obj
+
+# target to build an object file
+DataClass/3_11ClassFile_malloc_01.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_11ClassFile_malloc_01.cpp.obj
+.PHONY : DataClass/3_11ClassFile_malloc_01.cpp.obj
+
+DataClass/3_11ClassFile_malloc_01.i: DataClass/3_11ClassFile_malloc_01.cpp.i
+
+.PHONY : DataClass/3_11ClassFile_malloc_01.i
+
+# target to preprocess a source file
+DataClass/3_11ClassFile_malloc_01.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_11ClassFile_malloc_01.cpp.i
+.PHONY : DataClass/3_11ClassFile_malloc_01.cpp.i
+
+DataClass/3_11ClassFile_malloc_01.s: DataClass/3_11ClassFile_malloc_01.cpp.s
+
+.PHONY : DataClass/3_11ClassFile_malloc_01.s
+
+# target to generate assembly for a file
+DataClass/3_11ClassFile_malloc_01.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_11ClassFile_malloc_01.cpp.s
+.PHONY : DataClass/3_11ClassFile_malloc_01.cpp.s
+
 DataClass/3_12ClassFile.obj: DataClass/3_12ClassFile.cpp.obj
 
 .PHONY : DataClass/3_12ClassFile.obj
@@ -350,6 +377,9 @@ help:
 	@echo ... DataClass/3_10BookPreview.obj
 	@echo ... DataClass/3_10BookPreview.i
 	@echo ... DataClass/3_10BookPreview.s
+	@echo ... DataClass/3_11ClassFile_malloc_01.obj
+	@echo ... DataClass/3_11ClassFile_malloc_01.i
+	@echo ... DataClass/3_11ClassFile_malloc_01.s
 	@echo ... DataClass/3_12ClassFile.obj
 	@echo ... DataClass/3_12ClassFile.i
 	@echo ... DataClass/3_12ClassFile.s
