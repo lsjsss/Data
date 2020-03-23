@@ -6,8 +6,8 @@
 
 int linknodeh1() {
     LinkNode *L;
-    int a[10]={63,7,35,19,94,55,75,67,7,26};
-    int n = 10;
+    int a[9]={63,7,35,19,94,7,25,64,95};
+    int n = 9;
 
     printf("初始化单链表：");
     InitList(L);//初始化单链表
@@ -26,9 +26,9 @@ int linknodeh1() {
     printf("单链表长度：");
     printf("%d\n", ListLength(L) );
 
-    printf("单链表中第 3 个元素：");
-    int numlocation1 = 3;//顺序表第三个元素
-    int num1 = 0;//单链表第三个元素的值
+    printf("单链表中第 5 个元素：");
+    int numlocation1 = 5;//顺序表第五个元素
+    int num1 = 0;//单链表第五个元素的值
     GetData(L, numlocation1, num1);//查找元素值
     printf("%d\n", num1 );//返回元素值
 
@@ -36,10 +36,10 @@ int linknodeh1() {
     int num2 = 7;//单链表元素值等于7
     printf("%d\n", LocateData(L, num2));//查找位置
 
-    printf("单链表中第 7 个位置插入元素 90 之后:");
-    int numlocation3 = 7;
-    int num3 = 90;
-    ListInsert(L, numlocation3, num3);//单链表中第 7 个位置插入元素 41
+    printf("单链表中第 3 个位置插入元素 91 之后:");
+    int numlocation3 = 3;
+    int num3 = 91;
+    ListInsert(L, numlocation3, num3);//单链表中第 3 个位置插入元素 91
     Display(L);//输出单链表
 
     printf("单链表中删除第 4 个位置元素之后：");

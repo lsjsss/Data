@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/3_15SolutionHomework.cpp
-iostream
+F:/CLionProjects/Data/DataClass/3_19LinknodeHomework2.cpp
+stdio.h
 -
-math.h
--
+Linknode.cpp
+F:/CLionProjects/Data/DataClass/Linknode.cpp
 
 F:/CLionProjects/Data/DataClass/3_19SqlistHomework1.cpp
 stdio.h
 -
 Sqlist.cpp
 F:/CLionProjects/Data/DataClass/Sqlist.cpp
+
+F:/CLionProjects/Data/DataClass/Linknode.cpp
+stdio.h
+-
+malloc.h
+-
 
 F:/CLionProjects/Data/DataClass/Sqlist.cpp
 stdio.h
