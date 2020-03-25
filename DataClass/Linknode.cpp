@@ -177,3 +177,5 @@ void DelNodel(LinkNode *&L, ElemType a) {
         }
     }
 }
+
+

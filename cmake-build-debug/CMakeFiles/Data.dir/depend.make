@@ -19,5 +19,8 @@ CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.obj: ../DataClass/Linkno
 CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj: ../DataClass/3_19SqlistHomework1.cpp
 CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj: ../DataClass/Sqlist.cpp
 
+CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/3_25_DLinknodeHomework.cpp
+CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/DLinknode.cpp
+
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
 

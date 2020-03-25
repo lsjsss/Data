@@ -6,27 +6,11 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/3_19LinknodeHomework2.cpp
-stdio.h
--
-Linknode.cpp
-F:/CLionProjects/Data/DataClass/Linknode.cpp
+F:/CLionProjects/Data/DataClass/3_25_DLinknodeHomework.cpp
+DLinknode.cpp
+F:/CLionProjects/Data/DataClass/DLinknode.cpp
 
-F:/CLionProjects/Data/DataClass/3_19SqlistHomework1.cpp
-stdio.h
--
-Sqlist.cpp
-F:/CLionProjects/Data/DataClass/Sqlist.cpp
-
-F:/CLionProjects/Data/DataClass/Linknode.cpp
-stdio.h
--
-malloc.h
--
-
-F:/CLionProjects/Data/DataClass/Sqlist.cpp
-stdio.h
--
-malloc.h
+F:/CLionProjects/Data/DataClass/DLinknode.cpp
+iostream
 -
 
