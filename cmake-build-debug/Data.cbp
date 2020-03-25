@@ -104,6 +104,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/3_19SqlistHomework1.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/3_25_DLinknodeHomework.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>

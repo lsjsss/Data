@@ -338,6 +338,33 @@ DataClass/3_19SqlistHomework1.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.s
 .PHONY : DataClass/3_19SqlistHomework1.cpp.s
 
+DataClass/3_25_DLinknodeHomework.obj: DataClass/3_25_DLinknodeHomework.cpp.obj
+
+.PHONY : DataClass/3_25_DLinknodeHomework.obj
+
+# target to build an object file
+DataClass/3_25_DLinknodeHomework.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj
+.PHONY : DataClass/3_25_DLinknodeHomework.cpp.obj
+
+DataClass/3_25_DLinknodeHomework.i: DataClass/3_25_DLinknodeHomework.cpp.i
+
+.PHONY : DataClass/3_25_DLinknodeHomework.i
+
+# target to preprocess a source file
+DataClass/3_25_DLinknodeHomework.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.i
+.PHONY : DataClass/3_25_DLinknodeHomework.cpp.i
+
+DataClass/3_25_DLinknodeHomework.s: DataClass/3_25_DLinknodeHomework.cpp.s
+
+.PHONY : DataClass/3_25_DLinknodeHomework.s
+
+# target to generate assembly for a file
+DataClass/3_25_DLinknodeHomework.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.s
+.PHONY : DataClass/3_25_DLinknodeHomework.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -398,6 +425,9 @@ help:
 	@echo ... DataClass/3_19SqlistHomework1.obj
 	@echo ... DataClass/3_19SqlistHomework1.i
 	@echo ... DataClass/3_19SqlistHomework1.s
+	@echo ... DataClass/3_25_DLinknodeHomework.obj
+	@echo ... DataClass/3_25_DLinknodeHomework.i
+	@echo ... DataClass/3_25_DLinknodeHomework.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Data.dir/DataClass/3_18SqlistTest.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj"
   "CMakeFiles/Data.dir/main.cpp.obj"
   "Data.exe"
   "Data.exe.manifest"
