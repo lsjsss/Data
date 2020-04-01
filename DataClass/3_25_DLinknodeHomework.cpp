@@ -1,6 +1,6 @@
 // Created by lsjss on 2020/3/25.
 #include "DLinknode.cpp"
-#define dlinknodeh1 main
+//#define dlinknodeh1 main
 
 int dlinknodeh1() {
     DLinkNode *L;
