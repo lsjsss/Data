@@ -1,62 +1,44 @@
 // Created by lsjss on 2020/4/1.
-// Created by lsjss on 2020/3/19.
-//å®Œæˆé“¾è¡¨çš„åŸºç¡€è¿ç®—ï¼Œå¹¶å®Œæˆæµ‹è¯•å·¥ä½œï¼Œæµ‹è¯•ç»“æœå‚è€ƒå›¾å½¢ã€‚
+//Íê³ÉË³ĞòÕ»µÄ»ù´¡Ô¤Ëã£¬²¢²âÊÔ³ÌĞò£¬Çë¸÷´¦»ù´¡Ëã·¨³ÌĞòºÍ²âÊÔ³ÌĞòÒÔ¼°ÔËĞĞ½á¹û¡£
 #include <stdio.h>
 #include "SqStack.cpp"
 //#define sqstackh1 main
 
 int sqstackh1() {
-    SqStack *L;
-    int a[9]={63,7,35,19,94,7,25,64,95};
-    int n = 9;
+    SqStack *S;//Ë³ĞòÕ»µÄ³õÊ¼¶¨Òå
+    int a[10]={ 17, 20, 93, 85, 74, 61, 55, 11, 2, 46 };
+    int n = 10;//ÔªËØ¸öÊı
 
-    printf("åˆå§‹åŒ–å•é“¾è¡¨ï¼š");
-    InitList(L);//åˆå§‹åŒ–å•é“¾è¡¨
-    Display(L);//è¾“å‡ºå•é“¾è¡¨
+    printf("³õÊ¼»¯Ë³ĞòÕ»£º ");
+    InitStack(S);//³õÊ¼»¯Ë³ĞòÕ»
+    ShowStack(S);//Êä³öË³ĞòÕ»
 
-    printf("å•é“¾è¡¨æ˜¯å¦ä¸ºç©ºï¼š");
-    printf("%d\n", ListEmpty(L) );
+    printf("Ë³ĞòÕ»ÊÇ·ñÎª¿Õ£º ");
+    printf("%d\n", StackEmpty(S));//ÅĞ¶ÏË³ĞòÕ»ÊÇ·ñÎª¿Õ
 
-    printf("åˆ›å»ºå•é“¾è¡¨ï¼š");
-    CreateListF(L, a, n);//ä½¿ç”¨å¤´æ’æ³•åˆ›å»ºå•é“¾è¡¨
-    Display(L);//è¾“å‡ºå•é“¾è¡¨
+    printf("´´½¨Ë³ĞòÕ»£º ");
+    CreateStack(S, a, n);//´´½¨Ë³ĞòÕ»
+    ShowStack(S);//Êä³öË³ĞòÕ»
 
-    printf("å•é“¾è¡¨æ˜¯å¦ä¸ºç©ºï¼š");
-    printf("%d\n", ListEmpty(L) );
+    printf("Ë³ĞòÕ»ÊÇ·ñÎª¿Õ£º ");
+    printf("%d\n", StackEmpty(S));//ÅĞ¶ÏË³ĞòÕ»ÊÇ·ñÎª¿Õ
 
-    printf("å•é“¾è¡¨é•¿åº¦ï¼š");
-    printf("%d\n", ListLength(L) );
+    printf("Ë³ĞòÕ»³¤¶È£º ");
+    printf("%d\n", StackLength(S));//»ñÈ¡Ë³ĞòÕ»µÄ³¤¶È
 
-    printf("å•é“¾è¡¨ä¸­ç¬¬ 5 ä¸ªå…ƒç´ ï¼š");
-    int numlocation1 = 5;//é¡ºåºè¡¨ç¬¬äº”ä¸ªå…ƒç´ 
-    int num1 = 0;//å•é“¾è¡¨ç¬¬äº”ä¸ªå…ƒç´ çš„å€¼
-    GetData(L, numlocation1, num1);//æŸ¥æ‰¾å…ƒç´ å€¼
-    printf("%d\n", num1 );//è¿”å›å…ƒç´ å€¼
 
-    printf("å•é“¾è¡¨ä¸­å…ƒç´  7 é¦–æ¬¡å‡ºç°çš„ä½ç½®ï¼š");
-    int num2 = 7;//å•é“¾è¡¨å…ƒç´ å€¼ç­‰äº7
-    printf("%d\n", LocateData(L, num2));//æŸ¥æ‰¾ä½ç½®
+    ElemType e;//³öÕ»ÔªËØ
+    Pop(S, e);//³öÕ»
+    printf("ÔªËØ%d³öÕ»: ", e);
+    ShowStack(S);//Êä³öË³ĞòÕ»
 
-    printf("å•é“¾è¡¨ä¸­ç¬¬ 3 ä¸ªä½ç½®æ’å…¥å…ƒç´  91 ä¹‹å:");
-    int numlocation3 = 3;
-    int num3 = 91;
-    ListInsert(L, numlocation3, num3);//å•é“¾è¡¨ä¸­ç¬¬ 3 ä¸ªä½ç½®æ’å…¥å…ƒç´  91
-    Display(L);//è¾“å‡ºå•é“¾è¡¨
+    ElemType elem = 34;//ÈëÕ»ÔªËØ
+    Push(S, elem);//ÈëÕ»
+    printf("ÔªËØ%dÈëÕ»: ", elem);
+    ShowStack(S);//Êä³öË³ĞòÕ»
 
-    printf("å•é“¾è¡¨ä¸­åˆ é™¤ç¬¬ 4 ä¸ªä½ç½®å…ƒç´ ä¹‹åï¼š");
-    int numlocation4 = 4;
-    int delnum4 = 0;
-    ListDelete(L, numlocation4, delnum4);
-    Display(L);//è¾“å‡ºå•é“¾è¡¨
-
-    printf("è¢«åˆ é™¤çš„å…ƒç´ ï¼š");
-    printf("%d\n", delnum4);
-
-    printf("å•é“¾è¡¨ä¸­åˆ é™¤æ‰€æœ‰å€¼ä¸º 7 çš„å…ƒç´ ï¼š");
-    int num4 = 7;
-    DelNodel(L, num4);
-    Display(L);//è¾“å‡ºå•é“¾è¡¨
+    printf("Ïú»ÙË³ĞòÕ»£º ");
+    DestroyStack(S);//Ïú»ÙË³ĞòÕ»
 
     return 0;
 }
-

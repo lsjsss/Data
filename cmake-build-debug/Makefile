@@ -392,6 +392,33 @@ DataClass/4_1_SqStackHomework.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.s
 .PHONY : DataClass/4_1_SqStackHomework.cpp.s
 
+DataClass/4_2_LinkStNodeHomework.obj: DataClass/4_2_LinkStNodeHomework.cpp.obj
+
+.PHONY : DataClass/4_2_LinkStNodeHomework.obj
+
+# target to build an object file
+DataClass/4_2_LinkStNodeHomework.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj
+.PHONY : DataClass/4_2_LinkStNodeHomework.cpp.obj
+
+DataClass/4_2_LinkStNodeHomework.i: DataClass/4_2_LinkStNodeHomework.cpp.i
+
+.PHONY : DataClass/4_2_LinkStNodeHomework.i
+
+# target to preprocess a source file
+DataClass/4_2_LinkStNodeHomework.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.i
+.PHONY : DataClass/4_2_LinkStNodeHomework.cpp.i
+
+DataClass/4_2_LinkStNodeHomework.s: DataClass/4_2_LinkStNodeHomework.cpp.s
+
+.PHONY : DataClass/4_2_LinkStNodeHomework.s
+
+# target to generate assembly for a file
+DataClass/4_2_LinkStNodeHomework.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.s
+.PHONY : DataClass/4_2_LinkStNodeHomework.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -458,6 +485,9 @@ help:
 	@echo ... DataClass/4_1_SqStackHomework.obj
 	@echo ... DataClass/4_1_SqStackHomework.i
 	@echo ... DataClass/4_1_SqStackHomework.s
+	@echo ... DataClass/4_2_LinkStNodeHomework.obj
+	@echo ... DataClass/4_2_LinkStNodeHomework.i
+	@echo ... DataClass/4_2_LinkStNodeHomework.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

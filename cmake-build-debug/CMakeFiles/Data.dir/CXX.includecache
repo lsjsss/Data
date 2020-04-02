@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/3_25_DLinknodeHomework.cpp
-DLinknode.cpp
-F:/CLionProjects/Data/DataClass/DLinknode.cpp
+F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp
+stdio.h
+-
+LinkStackNode.cpp
+F:/CLionProjects/Data/DataClass/LinkStackNode.cpp
 
-F:/CLionProjects/Data/DataClass/DLinknode.cpp
-iostream
+F:/CLionProjects/Data/DataClass/LinkStackNode.cpp
+stdio.h
+-
+malloc.h
 -
 

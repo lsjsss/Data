@@ -110,6 +110,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/4_1_SqStackHomework.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>
