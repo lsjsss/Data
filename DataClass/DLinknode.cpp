@@ -1,8 +1,8 @@
 // Created by lsjss on 2020/3/25.
 #include <iostream>
 using namespace std;
+//双链表
 typedef int ElemType;
-
 typedef struct DNode {
     ElemType data;//数据域
     struct DNode *prior;//指向前驱结点

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <malloc.h>
 using namespace std;
-
+//链栈
 #define MaxSize 50
 typedef int ElemType;
 

@@ -1,7 +1,7 @@
 // Created by lsjss on 2020/3/18.
 #include <stdio.h>
 #include <malloc.h>
-
+//线性表
 #define MaxSize 50
 typedef int ElemType;
 

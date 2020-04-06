@@ -1,7 +1,7 @@
 // Created by lsjss on 2020/4/1.
 #include <iostream>
 using namespace std;
-
+//顺序栈
 #define MaxSize 50
 typedef int ElemType;
 

@@ -26,7 +26,6 @@ int sqstackh1() {
     printf("顺序栈长度： ");
     printf("%d\n", StackLength(S));//获取顺序栈的长度
 
-
     ElemType e;//出栈元素
     Pop(S, e);//出栈
     printf("元素%d出栈: ", e);

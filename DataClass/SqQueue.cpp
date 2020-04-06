@@ -2,13 +2,13 @@
 #include <iostream>
 #include <malloc.h>
 using namespace std;
-
+//顺序队
 #define MaxSize 50
 typedef int ElemType;
 
 typedef struct {
     ElemType data[MaxSize];
-    int front, rear;      //队首和队尾指针
+    int front, rear;    //队首和队尾指针
 } SqQueue;
 
 //1 初始化队列
