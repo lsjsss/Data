@@ -2,7 +2,7 @@
 //完成链栈的基础预算，并测试程序，请各处基础算法程序和测试程序以及运行结果。
 #include <stdio.h>
 #include "LinkStackNode.cpp"
-#define linkstacknode1 main
+//#define linkstacknode1 main
 
 int linkstacknode1() {
     LinkStackNode *S;//链栈的初始定义
