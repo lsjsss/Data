@@ -3,12 +3,12 @@
 #define MaxSize 100
 //顺序串
 typedef struct {
-    char data[MaxSize]; //存放串字符
-    int length; //存放串长
+    char data[MaxSize];  //存放串字符
+    int length;  //存放串长
 } SqString; //顺序串类型
 
 //1 生成串
-void StrAssign(SqString &s, char cstr[]) {//s 为引用型参数
+void StrAssign(SqString &s, char cstr[]) {  //s 为引用型参数
 	int i;
     for(i=0; cstr[i]!='\0'; i++) {
         s.data[i]=cstr[i];
