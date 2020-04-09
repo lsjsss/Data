@@ -139,20 +139,25 @@ void DispStr(SqString s) {
 
 //对字符串 s 和 t 进行比较
 int  Strcmp(SqString s, SqString t) {
-    int i, comlen;
-if (s.length<t.length)  comlen=s.length; //求s和t的共同长度
-else comlen=t.length;
-for (i=0;i<comlen;i++)        	//在共同长度内逐个字符比较
-if (s.data[i]>t.data[i])
-return 1;
-else if (s.data[i]<t.data[i])
-return -1;
-
-if (s.length==t.length)		//s==t
-return 0;
-else if (s.length>t.length)	//s>t
-return 1;
-else  return -1;		//s<t
-
+    int i, comlen;  //comlen 用于存储
+    if (s.length<t.length) {
+        comlen=s.length;  //求s和t的共同长度
+    } else {
+        comlen=t.length;
+    }
+    for (i=0;i<comlen;i++)  {  //在共同长度内逐个字符比较
+        if (s.data[i]>t.data[i]) {
+            return 1;
+        } else if (s.data[i]<t.data[i]) {
+            return -1;
+        }
+    }
+    if (s.length==t.length)	{  //s==t
+        return 0;
+    } else if (s.length>t.length) {  //s>t
+        return 1;
+    } else {
+        return -1;		//s<t
+    }
 }
 
