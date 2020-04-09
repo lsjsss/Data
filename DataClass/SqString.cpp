@@ -131,8 +131,9 @@ SqString RepStr(SqString s,int i,int j,SqString t) {
 //11 输出串
 void DispStr(SqString s) {
     if(s.length>0) {
-        for(int i=0; i<s.length; i++)
+        for(int i=0; i<s.length; i++) {
             printf("%c",s.data[i]);
+        }
         printf("\n");
     }
 }
