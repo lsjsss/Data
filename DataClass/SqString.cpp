@@ -122,8 +122,9 @@ SqString RepStr(SqString s,int i,int j,SqString t) {
         str.data[k]=s.data[k];
     for(k=0; k<t.length; k++)  //将 t.data[0..t.length-1] 复制到 str
         str.data[i+k-1]=t.data[k];
-    for(k=i+j-1; k<s.length; k++)  //将 s.data[i+j-1..s.length-1] 复制到 str
+    for(k=i+j-1; k<s.length; k++) {  //将 s.data[i+j-1..s.length-1] 复制到 str
         str.data[t.length+k-j]=s.data[k];
+    }
     str.length=s.length-j+t.length;
     return str;
 }
