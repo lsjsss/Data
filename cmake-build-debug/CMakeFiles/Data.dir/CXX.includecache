@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp
+F:/CLionProjects/Data/DataClass/4_13_SqStringHomework.cpp
 stdio.h
 -
-LinkStackNode.cpp
-F:/CLionProjects/Data/DataClass/LinkStackNode.cpp
+SqString.cpp
+F:/CLionProjects/Data/DataClass/SqString.cpp
 
-F:/CLionProjects/Data/DataClass/LinkStackNode.cpp
+F:/CLionProjects/Data/DataClass/SqString.cpp
 stdio.h
--
-malloc.h
 -
 

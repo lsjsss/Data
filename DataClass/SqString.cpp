@@ -1,6 +1,7 @@
 // Created by lsjss on 2020/4/9.
 #include <stdio.h>
 #define MaxSize 100
+
 //顺序串
 typedef struct {
     char data[MaxSize];  //存放串字符
@@ -80,11 +81,11 @@ SqString SubStr(SqString s,int i,int j) {
 }
 
 //8 子串的插入
-SqString InsStr(SqString s1,int i,SqString s2) {
+SqString InsStr(SqString s1, int i, SqString s2) {
     int j;
     SqString str; //定义结果串
-    str.length=0;  //设置 str 为空串
-    if(i<=0||i>s1.length+1) {  //参数不正确时返回空串
+    str.length = 0;  //设置 str 为空串
+    if( i<=0 || i>s1.length+1) {  //参数不正确时返回空串
         return str;
     }
     for(j=0; j<i-1; j++) {  //将 s1.data[0..i-2] 复制到 str

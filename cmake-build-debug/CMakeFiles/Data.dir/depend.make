@@ -22,6 +22,9 @@ CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj: ../DataClass/Sqlist.c
 CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/3_25_DLinknodeHomework.cpp
 CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/DLinknode.cpp
 
+CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj: ../DataClass/4_13_SqStringHomework.cpp
+CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj: ../DataClass/SqString.cpp
+
 CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/4_1_SqStackHomework.cpp
 CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/SqStack.cpp
 

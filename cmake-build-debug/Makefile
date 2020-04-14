@@ -38,10 +38,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\CLion2019.3.5\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "E:\CLion2019.3.5\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = F:\CLionProjects\Data\cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"E:\CLion2019.3.5\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -69,7 +69,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"E:\CLion2019.3.5\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -365,6 +365,33 @@ DataClass/3_25_DLinknodeHomework.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.s
 .PHONY : DataClass/3_25_DLinknodeHomework.cpp.s
 
+DataClass/4_13_SqStringHomework.obj: DataClass/4_13_SqStringHomework.cpp.obj
+
+.PHONY : DataClass/4_13_SqStringHomework.obj
+
+# target to build an object file
+DataClass/4_13_SqStringHomework.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj
+.PHONY : DataClass/4_13_SqStringHomework.cpp.obj
+
+DataClass/4_13_SqStringHomework.i: DataClass/4_13_SqStringHomework.cpp.i
+
+.PHONY : DataClass/4_13_SqStringHomework.i
+
+# target to preprocess a source file
+DataClass/4_13_SqStringHomework.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.i
+.PHONY : DataClass/4_13_SqStringHomework.cpp.i
+
+DataClass/4_13_SqStringHomework.s: DataClass/4_13_SqStringHomework.cpp.s
+
+.PHONY : DataClass/4_13_SqStringHomework.s
+
+# target to generate assembly for a file
+DataClass/4_13_SqStringHomework.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.s
+.PHONY : DataClass/4_13_SqStringHomework.cpp.s
+
 DataClass/4_1_SqStackHomework.obj: DataClass/4_1_SqStackHomework.cpp.obj
 
 .PHONY : DataClass/4_1_SqStackHomework.obj
@@ -482,6 +509,9 @@ help:
 	@echo ... DataClass/3_25_DLinknodeHomework.obj
 	@echo ... DataClass/3_25_DLinknodeHomework.i
 	@echo ... DataClass/3_25_DLinknodeHomework.s
+	@echo ... DataClass/4_13_SqStringHomework.obj
+	@echo ... DataClass/4_13_SqStringHomework.i
+	@echo ... DataClass/4_13_SqStringHomework.s
 	@echo ... DataClass/4_1_SqStackHomework.obj
 	@echo ... DataClass/4_1_SqStackHomework.i
 	@echo ... DataClass/4_1_SqStackHomework.s
