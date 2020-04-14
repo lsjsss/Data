@@ -1,7 +1,6 @@
 // Created by lsjss on 2020/4/9.
 #include <stdio.h>
 #define MaxSize 100
-
 //顺序串
 typedef struct {
     char data[MaxSize];  //存放串字符

@@ -2,7 +2,7 @@
 //完成顺序串的基础运算并完成测试，数组自己构造，要与自己的个人信息相关。参考截图
 #include <stdio.h>
 #include "SqString.cpp"
-#define sequential main
+//#define sequential main
 
 void showLineStr(SqString s);
 int sequential() {
