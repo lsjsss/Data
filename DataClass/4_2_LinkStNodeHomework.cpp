@@ -1,11 +1,11 @@
 // Created by lsjss on 2020/4/2.
 //完成链栈的基础预算，并测试程序，请各处基础算法程序和测试程序以及运行结果。
 #include <stdio.h>
-#include "LinkStackNode.cpp"
-//#define linkstacknode1 main
+#include "LinkStNode.cpp"
+//#define linkstnode1 main
 
-int linkstacknode1() {
-    LinkStackNode *S;//链栈的初始定义
+int linkstnode1() {
+    LinkStNode *S;//链栈的初始定义
     int a[9]={45, 66, 21, 34, 82, 19, 5, 79, 57};
     int n = 9;//元素个数
 

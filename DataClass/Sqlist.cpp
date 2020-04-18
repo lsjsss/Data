@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <malloc.h>
-//线性表
+//顺序表
 #define MaxSize 50
 typedef int ElemType;
 
