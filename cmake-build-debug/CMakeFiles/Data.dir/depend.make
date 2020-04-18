@@ -29,7 +29,7 @@ CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/4_1_SqSt
 CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/SqStack.cpp
 
 CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/4_2_LinkStNodeHomework.cpp
-CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/LinkStackNode.cpp
+CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/LinkStNode.cpp
 
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
 
