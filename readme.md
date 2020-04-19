@@ -13,10 +13,10 @@ by - Li Shuaijun
 > Sqlist - Sequential list (顺序表) 35-39.  
 > Linknode - Single linked list (单链表) 45-52
 > DLinknode - Double linked list (双链表) 54-58  
->  (循环链表) 59-61  
+>   (循环链表) 59-61  
 > SqStack - Sequential stack (顺序栈) 80-82  
 > LinkStNode - Link stack (链栈) 84-86  
 > SqQueue - Sequential queue (顺序队) 98-100  
 > LinkQuNode - Linked queue (链队) 104-106  
 > SqString - Sequential string (顺序串) 123-126  
-> LinkStrNode - (链串)128-133
+> LinkStrNode - (链串) 128-133
