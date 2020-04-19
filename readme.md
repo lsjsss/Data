@@ -10,7 +10,7 @@ by - Li Shuaijun
 > 3_18ClassFile - 3.18Homework and Sqlist test project(12-24 for class).  
 > 3_18SqlistTest - Old Sqlist add main.
 
-> Sqlist - Sequential list (顺序表) 35-39.  
+> Sqlist - Sequential list (顺序表) 35-39  
 > Linknode - Single linked list (单链表) 45-52
 > DLinknode - Double linked list (双链表) 54-58  
 >  (循环链表) 59-61  
