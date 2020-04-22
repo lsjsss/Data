@@ -116,6 +116,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/TestHanci.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>

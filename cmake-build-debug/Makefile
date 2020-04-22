@@ -446,6 +446,33 @@ DataClass/4_2_LinkStNodeHomework.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.s
 .PHONY : DataClass/4_2_LinkStNodeHomework.cpp.s
 
+DataClass/TestHanci.obj: DataClass/TestHanci.cpp.obj
+
+.PHONY : DataClass/TestHanci.obj
+
+# target to build an object file
+DataClass/TestHanci.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj
+.PHONY : DataClass/TestHanci.cpp.obj
+
+DataClass/TestHanci.i: DataClass/TestHanci.cpp.i
+
+.PHONY : DataClass/TestHanci.i
+
+# target to preprocess a source file
+DataClass/TestHanci.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/TestHanci.cpp.i
+.PHONY : DataClass/TestHanci.cpp.i
+
+DataClass/TestHanci.s: DataClass/TestHanci.cpp.s
+
+.PHONY : DataClass/TestHanci.s
+
+# target to generate assembly for a file
+DataClass/TestHanci.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/TestHanci.cpp.s
+.PHONY : DataClass/TestHanci.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -518,6 +545,9 @@ help:
 	@echo ... DataClass/4_2_LinkStNodeHomework.obj
 	@echo ... DataClass/4_2_LinkStNodeHomework.i
 	@echo ... DataClass/4_2_LinkStNodeHomework.s
+	@echo ... DataClass/TestHanci.obj
+	@echo ... DataClass/TestHanci.i
+	@echo ... DataClass/TestHanci.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

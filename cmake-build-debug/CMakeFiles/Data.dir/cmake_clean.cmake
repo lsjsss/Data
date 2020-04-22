@@ -11,6 +11,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj"
   "CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj"
+  "CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj"
   "CMakeFiles/Data.dir/main.cpp.obj"
   "Data.exe"
   "Data.exe.manifest"
