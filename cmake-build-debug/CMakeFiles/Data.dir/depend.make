@@ -31,5 +31,7 @@ CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/SqStack.
 CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/4_2_LinkStNodeHomework.cpp
 CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/LinkStNode.cpp
 
+CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj: ../DataClass/TestHanci.cpp
+
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
 

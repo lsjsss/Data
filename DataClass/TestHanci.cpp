@@ -23,8 +23,8 @@ typedef struct {
 
 typedef struct {
     ElemType data[MaxSize];    //存放元素
-    int top;            //栈顶指针
-} StackType;            //顺序栈类型
+    int top;            //栈顶指针，默认值为 -1
+} StackType;            //顺序栈类型 (堆栈)
 
 //求解 Hanoi 问题对应顺序栈的基本运算算法
 //初始化栈
