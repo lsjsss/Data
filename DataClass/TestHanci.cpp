@@ -72,39 +72,25 @@ bool GetTop(StackType *&s, ElemType &e) {
 
 void Hanoi2(int n, char x, char y, char z) {
     StackType *st;            //定义顺序栈指针
-    ElemType e, e1, e2, e3;
+    ElemType e, e1, e2, e3;         //四个任务
     if (n <= 0) { return; }           //参数错误时直接返回
     InitStack(st);            //初始化栈
-    e.n = n;
-    e.x = x;
-    e.y = y;
-    e.z = z;
-    e.flag = false;
+    e.n = n; e.x = x; e.y = y; e.z = z; e.flag = false;
     Push(st, e);            //元素e进栈
 
     while (!StackEmpty(st)) {       //栈不空循环
         Pop(st, e);                //出栈元素e
         if (e.flag == false) {       //当不能直接移动盘片时
-            e1.n = e.n - 1;
-            e1.x = e.y;
-            e1.y = e.x;
-            e1.z = e.z;
+            e1.n = e.n - 1; e1.x = e.y; e1.y = e.x; e1.z = e.z;
             if (e1.n == 1) {           //只有一个盘片时可直接移动
                 e1.flag = true;
             } else {                       //有一个以上盘片时不能直接移动
                 e1.flag = false;
             }
             Push(st, e1);            //处理Hanoi(n-1，y，x，z)步骤
-            e2.n = e.n;
-            e2.x = e.x;
-            e2.y = e.y;
-            e2.z = e.z;
-            e2.flag = true;
+            e2.n = e.n; e2.x = e.x; e2.y = e.y; e2.z = e.z; e2.flag = true;
             Push(st, e2);            //处理move(n，x，z)步骤
-            e3.n = e.n - 1;
-            e3.x = e.x;
-            e3.y = e.z;
-            e3.z = e.y;
+            e3.n = e.n - 1; e3.x = e.x; e3.y = e.z; e3.z = e.y;
             if (e3.n == 1) {          //只有一个盘片时可直接移动
                 e3.flag = true;
             } else {
