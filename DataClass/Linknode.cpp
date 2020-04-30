@@ -6,8 +6,8 @@
 typedef int ElemType;
 
 typedef struct LNode {
-    ElemType data;  //存放元素值
-    struct LNode* next; //推向后继节点
+    ElemType data;  //存放元素值，数据域
+    struct LNode* next; //推向后继节点，指针域
 } LinkNode; //单链表节点类型
 
 //头插法
