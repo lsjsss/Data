@@ -2,7 +2,7 @@
 #include <iostream>
 #include <malloc.h>
 using namespace std;
-//顺序队
+// 顺序队
 #define MaxSize 50
 typedef int ElemType;
 
