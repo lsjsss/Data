@@ -223,10 +223,3 @@ bool Like(BTNode *b1, BTNode *b2) {
         return (like1 && like2); //返回like1和like2的与运算结果
     }
 }
-
-
-
-
-
-
-
