@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/CLionProjects/Data/DataClass/4_1_SqStackHomework.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj"
   "F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj"
   "F:/CLionProjects/Data/DataClass/TestHanci.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj"
+  "F:/CLionProjects/Data/DataClass/exp7_2.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj"
   "F:/CLionProjects/Data/main.cpp" "F:/CLionProjects/Data/cmake-build-debug/CMakeFiles/Data.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

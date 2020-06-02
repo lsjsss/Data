@@ -473,6 +473,33 @@ DataClass/TestHanci.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/TestHanci.cpp.s
 .PHONY : DataClass/TestHanci.cpp.s
 
+DataClass/exp7_2.obj: DataClass/exp7_2.cpp.obj
+
+.PHONY : DataClass/exp7_2.obj
+
+# target to build an object file
+DataClass/exp7_2.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj
+.PHONY : DataClass/exp7_2.cpp.obj
+
+DataClass/exp7_2.i: DataClass/exp7_2.cpp.i
+
+.PHONY : DataClass/exp7_2.i
+
+# target to preprocess a source file
+DataClass/exp7_2.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/exp7_2.cpp.i
+.PHONY : DataClass/exp7_2.cpp.i
+
+DataClass/exp7_2.s: DataClass/exp7_2.cpp.s
+
+.PHONY : DataClass/exp7_2.s
+
+# target to generate assembly for a file
+DataClass/exp7_2.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/exp7_2.cpp.s
+.PHONY : DataClass/exp7_2.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -548,6 +575,9 @@ help:
 	@echo ... DataClass/TestHanci.obj
 	@echo ... DataClass/TestHanci.i
 	@echo ... DataClass/TestHanci.s
+	@echo ... DataClass/exp7_2.obj
+	@echo ... DataClass/exp7_2.i
+	@echo ... DataClass/exp7_2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

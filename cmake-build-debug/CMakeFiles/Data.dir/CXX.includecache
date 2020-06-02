@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/TestHanci.cpp
-stdio.h
+F:/CLionProjects/Data/DataClass/BTNode.cpp
+iostream
 -
-malloc.h
+
+F:/CLionProjects/Data/DataClass/SqQueue_BTNode.cpp
+
+F:/CLionProjects/Data/DataClass/SqStack_BTNode.cpp
+BTNode.cpp
+F:/CLionProjects/Data/DataClass/BTNode.cpp
+
+F:/CLionProjects/Data/DataClass/exp7_2.cpp
+iostream
 -
+SqStack_BTNode.cpp
+F:/CLionProjects/Data/DataClass/SqStack_BTNode.cpp
+SqQueue_BTNode.cpp
+F:/CLionProjects/Data/DataClass/SqQueue_BTNode.cpp
 

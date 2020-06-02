@@ -119,6 +119,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/TestHanci.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/exp7_2.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
 			<Option target="Data"/>
 		</Unit>
