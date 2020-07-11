@@ -446,6 +446,33 @@ DataClass/4_2_LinkStNodeHomework.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.s
 .PHONY : DataClass/4_2_LinkStNodeHomework.cpp.s
 
+DataClass/Prim.obj: DataClass/Prim.cpp.obj
+
+.PHONY : DataClass/Prim.obj
+
+# target to build an object file
+DataClass/Prim.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/Prim.cpp.obj
+.PHONY : DataClass/Prim.cpp.obj
+
+DataClass/Prim.i: DataClass/Prim.cpp.i
+
+.PHONY : DataClass/Prim.i
+
+# target to preprocess a source file
+DataClass/Prim.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/Prim.cpp.i
+.PHONY : DataClass/Prim.cpp.i
+
+DataClass/Prim.s: DataClass/Prim.cpp.s
+
+.PHONY : DataClass/Prim.s
+
+# target to generate assembly for a file
+DataClass/Prim.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/DataClass/Prim.cpp.s
+.PHONY : DataClass/Prim.cpp.s
+
 DataClass/TestHanci.obj: DataClass/TestHanci.cpp.obj
 
 .PHONY : DataClass/TestHanci.obj
@@ -527,6 +554,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+sybg/sybg1_6_24.obj: sybg/sybg1_6_24.cpp.obj
+
+.PHONY : sybg/sybg1_6_24.obj
+
+# target to build an object file
+sybg/sybg1_6_24.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj
+.PHONY : sybg/sybg1_6_24.cpp.obj
+
+sybg/sybg1_6_24.i: sybg/sybg1_6_24.cpp.i
+
+.PHONY : sybg/sybg1_6_24.i
+
+# target to preprocess a source file
+sybg/sybg1_6_24.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.i
+.PHONY : sybg/sybg1_6_24.cpp.i
+
+sybg/sybg1_6_24.s: sybg/sybg1_6_24.cpp.s
+
+.PHONY : sybg/sybg1_6_24.s
+
+# target to generate assembly for a file
+sybg/sybg1_6_24.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.s
+.PHONY : sybg/sybg1_6_24.cpp.s
+
+sybg/sybg2_6_24.obj: sybg/sybg2_6_24.cpp.obj
+
+.PHONY : sybg/sybg2_6_24.obj
+
+# target to build an object file
+sybg/sybg2_6_24.cpp.obj:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj
+.PHONY : sybg/sybg2_6_24.cpp.obj
+
+sybg/sybg2_6_24.i: sybg/sybg2_6_24.cpp.i
+
+.PHONY : sybg/sybg2_6_24.i
+
+# target to preprocess a source file
+sybg/sybg2_6_24.cpp.i:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.i
+.PHONY : sybg/sybg2_6_24.cpp.i
+
+sybg/sybg2_6_24.s: sybg/sybg2_6_24.cpp.s
+
+.PHONY : sybg/sybg2_6_24.s
+
+# target to generate assembly for a file
+sybg/sybg2_6_24.cpp.s:
+	$(MAKE) -f CMakeFiles\Data.dir\build.make CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.s
+.PHONY : sybg/sybg2_6_24.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -572,6 +653,9 @@ help:
 	@echo ... DataClass/4_2_LinkStNodeHomework.obj
 	@echo ... DataClass/4_2_LinkStNodeHomework.i
 	@echo ... DataClass/4_2_LinkStNodeHomework.s
+	@echo ... DataClass/Prim.obj
+	@echo ... DataClass/Prim.i
+	@echo ... DataClass/Prim.s
 	@echo ... DataClass/TestHanci.obj
 	@echo ... DataClass/TestHanci.i
 	@echo ... DataClass/TestHanci.s
@@ -581,6 +665,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... sybg/sybg1_6_24.obj
+	@echo ... sybg/sybg1_6_24.i
+	@echo ... sybg/sybg1_6_24.s
+	@echo ... sybg/sybg2_6_24.obj
+	@echo ... sybg/sybg2_6_24.i
+	@echo ... sybg/sybg2_6_24.s
 .PHONY : help
 
 

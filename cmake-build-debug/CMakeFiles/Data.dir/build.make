@@ -251,6 +251,45 @@ CMakeFiles/Data.dir/DataClass/exp7_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/exp7_2.cpp.s"
 	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\exp7_2.cpp -o CMakeFiles\Data.dir\DataClass\exp7_2.cpp.s
 
+CMakeFiles/Data.dir/DataClass/Prim.cpp.obj: CMakeFiles/Data.dir/flags.make
+CMakeFiles/Data.dir/DataClass/Prim.cpp.obj: ../DataClass/Prim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Data.dir/DataClass/Prim.cpp.obj"
+	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\DataClass\Prim.cpp.obj -c F:\CLionProjects\Data\DataClass\Prim.cpp
+
+CMakeFiles/Data.dir/DataClass/Prim.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/DataClass/Prim.cpp.i"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\DataClass\Prim.cpp > CMakeFiles\Data.dir\DataClass\Prim.cpp.i
+
+CMakeFiles/Data.dir/DataClass/Prim.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/DataClass/Prim.cpp.s"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\DataClass\Prim.cpp -o CMakeFiles\Data.dir\DataClass\Prim.cpp.s
+
+CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj: CMakeFiles/Data.dir/flags.make
+CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj: ../sybg/sybg1_6_24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj"
+	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\sybg\sybg1_6_24.cpp.obj -c F:\CLionProjects\Data\sybg\sybg1_6_24.cpp
+
+CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.i"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\sybg\sybg1_6_24.cpp > CMakeFiles\Data.dir\sybg\sybg1_6_24.cpp.i
+
+CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.s"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\sybg\sybg1_6_24.cpp -o CMakeFiles\Data.dir\sybg\sybg1_6_24.cpp.s
+
+CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj: CMakeFiles/Data.dir/flags.make
+CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj: ../sybg/sybg2_6_24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj"
+	E:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Data.dir\sybg\sybg2_6_24.cpp.obj -c F:\CLionProjects\Data\sybg\sybg2_6_24.cpp
+
+CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.i"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\Data\sybg\sybg2_6_24.cpp > CMakeFiles\Data.dir\sybg\sybg2_6_24.cpp.i
+
+CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.s"
+	E:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\Data\sybg\sybg2_6_24.cpp -o CMakeFiles\Data.dir\sybg\sybg2_6_24.cpp.s
+
 # Object files for target Data
 Data_OBJECTS = \
 "CMakeFiles/Data.dir/main.cpp.obj" \
@@ -267,7 +306,10 @@ Data_OBJECTS = \
 "CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj" \
 "CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj" \
 "CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj" \
-"CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj"
+"CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj" \
+"CMakeFiles/Data.dir/DataClass/Prim.cpp.obj" \
+"CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj" \
+"CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj"
 
 # External object files for target Data
 Data_EXTERNAL_OBJECTS =
@@ -287,11 +329,14 @@ Data.exe: CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/4_13_SqStringHomework.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj
 Data.exe: CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj
+Data.exe: CMakeFiles/Data.dir/DataClass/Prim.cpp.obj
+Data.exe: CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj
+Data.exe: CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj
 Data.exe: CMakeFiles/Data.dir/build.make
 Data.exe: CMakeFiles/Data.dir/linklibs.rsp
 Data.exe: CMakeFiles/Data.dir/objects1.rsp
 Data.exe: CMakeFiles/Data.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Data.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\CLionProjects\Data\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable Data.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Data.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

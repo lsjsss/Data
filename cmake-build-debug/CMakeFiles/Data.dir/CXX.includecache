@@ -6,21 +6,9 @@
 
 #IncludeRegexTransform: 
 
-F:/CLionProjects/Data/DataClass/BTNode.cpp
-iostream
+F:/CLionProjects/Data/sybg/sybg2_6_24.cpp
+stdio.h
 -
-
-F:/CLionProjects/Data/DataClass/SqQueue_BTNode.cpp
-
-F:/CLionProjects/Data/DataClass/SqStack_BTNode.cpp
-BTNode.cpp
-F:/CLionProjects/Data/DataClass/BTNode.cpp
-
-F:/CLionProjects/Data/DataClass/exp7_2.cpp
-iostream
+malloc.h
 -
-SqStack_BTNode.cpp
-F:/CLionProjects/Data/DataClass/SqStack_BTNode.cpp
-SqQueue_BTNode.cpp
-F:/CLionProjects/Data/DataClass/SqQueue_BTNode.cpp
 

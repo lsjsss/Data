@@ -17,7 +17,6 @@ CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.obj: ../DataClass/3_19Li
 CMakeFiles/Data.dir/DataClass/3_19LinknodeHomework2.cpp.obj: ../DataClass/Linknode.cpp
 
 CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj: ../DataClass/3_19SqlistHomework1.cpp
-CMakeFiles/Data.dir/DataClass/3_19SqlistHomework1.cpp.obj: ../DataClass/Sqlist.cpp
 
 CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/3_25_DLinknodeHomework.cpp
 CMakeFiles/Data.dir/DataClass/3_25_DLinknodeHomework.cpp.obj: ../DataClass/DLinknode.cpp
@@ -31,12 +30,17 @@ CMakeFiles/Data.dir/DataClass/4_1_SqStackHomework.cpp.obj: ../DataClass/SqStack.
 CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/4_2_LinkStNodeHomework.cpp
 CMakeFiles/Data.dir/DataClass/4_2_LinkStNodeHomework.cpp.obj: ../DataClass/LinkStNode.cpp
 
+CMakeFiles/Data.dir/DataClass/Prim.cpp.obj: ../DataClass/Prim.cpp
+
 CMakeFiles/Data.dir/DataClass/TestHanci.cpp.obj: ../DataClass/TestHanci.cpp
 
-CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj: ../DataClass/BTNode.cpp
 CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj: ../DataClass/SqQueue_BTNode.cpp
 CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj: ../DataClass/SqStack_BTNode.cpp
 CMakeFiles/Data.dir/DataClass/exp7_2.cpp.obj: ../DataClass/exp7_2.cpp
 
 CMakeFiles/Data.dir/main.cpp.obj: ../main.cpp
+
+CMakeFiles/Data.dir/sybg/sybg1_6_24.cpp.obj: ../sybg/sybg1_6_24.cpp
+
+CMakeFiles/Data.dir/sybg/sybg2_6_24.cpp.obj: ../sybg/sybg2_6_24.cpp
 

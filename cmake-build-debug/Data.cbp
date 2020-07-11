@@ -116,6 +116,9 @@
 		<Unit filename="F:/CLionProjects/Data/DataClass/4_2_LinkStNodeHomework.cpp">
 			<Option target="Data"/>
 		</Unit>
+		<Unit filename="F:/CLionProjects/Data/DataClass/Prim.cpp">
+			<Option target="Data"/>
+		</Unit>
 		<Unit filename="F:/CLionProjects/Data/DataClass/TestHanci.cpp">
 			<Option target="Data"/>
 		</Unit>
@@ -123,6 +126,12 @@
 			<Option target="Data"/>
 		</Unit>
 		<Unit filename="F:/CLionProjects/Data/main.cpp">
+			<Option target="Data"/>
+		</Unit>
+		<Unit filename="F:/CLionProjects/Data/sybg/sybg1_6_24.cpp">
+			<Option target="Data"/>
+		</Unit>
+		<Unit filename="F:/CLionProjects/Data/sybg/sybg2_6_24.cpp">
 			<Option target="Data"/>
 		</Unit>
 		<Unit filename="F:/CLionProjects/Data/CMakeLists.txt">
