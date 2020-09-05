@@ -82,7 +82,7 @@ int BinSearch(SqList *&R, int n, int k) {
 
 int sybg2_6_24() {
     SqList *L;
-    int a[10] = {11, 15, 22, 25, 33, 44, 55, 66, 77, 88};
+    int a[10] = {11, 15, 22, 25, 33, 44, 66, 77, 55, 88};
     int n = 10;
     int findnumber;
 
