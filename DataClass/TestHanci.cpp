@@ -1,5 +1,4 @@
 // Created by lsjss on 2020/4/22.
-
 #include <stdio.h>
 #include <malloc.h>
 #define MaxSize 100
